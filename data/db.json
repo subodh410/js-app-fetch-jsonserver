@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "title2 how to be ninja",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas enimconsequatur obcaecati qui a ipsum magni ipsam architecto eos ex similique,optio culpa repellendus, nulla repudiandae. Nulla, animi aperiam! Quaerat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dictavoluptate repellendus beatae, iste commodi praesentium eum nam. Blanditiisullam.",
+      "likes": 15
+    },
+    {
+      "id": "3",
+      "title": "title3 new vue",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas enimconsequatur obcaecati qui a ipsum magni ipsam architecto eos ex similique,optio culpa repellendus, nulla repudiandae. Nulla, animi aperiam! Quaerat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dictavoluptate repellendus beatae, iste commodi praesentium eum nam. Blanditiisullam.",
+      "likes": 20
+    },
+    {
+      "title": "new created",
+      "body": "lwvrioiiiiiiiiiiiiiiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+      "likes": 0,
+      "id": "oJhZR4Y"
+    }
+  ]
+}
