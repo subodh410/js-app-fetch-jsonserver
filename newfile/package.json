@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch scss -o css --recurssive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2",
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}

@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "useremail": "user1@gmail.com",
+      "userpass": "user1$123"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "useremail": "user2@gmail.com",
+      "userpass": "user2$123"
+    },
+    {
+      "id": "3",
+      "username": "user3",
+      "useremail": "user3@gmail.com",
+      "userpass": "user3$123"
+    },
+    {
+      "id": "4",
+      "username": "user4",
+      "useremail": "user4@gmail.com",
+      "userpass": "user4$123"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "username": "user1",
+      "blogtitle": "blog1",
+      "blogimg": "../img/chickenbiryani.jpg",
+      "blogcontents": "Biryani is a mixed rice dish with its origins among the Muslims of the Indian subcontinent. It is made with Indian spices, rice, and meat, and sometimes, in addition, eggs and/or potatoes in certain regional varieties. Biryani is popular throughout the Indian subcontinent, as well as among its diaspora.",
+      "blogcategory": "food",
+      "comments": [
+        {
+          "commentby": "user2",
+          "commentcontent": "wowwwwwwwwwwww"
+        },
+        {
+          "commentby": "user3",
+          "commentcontent": "wowwwwwwwwwwww from user3"
+        }
+      ],
+      "likedby": [
+        "user2",
+        "user3"
+      ],
+      "likecount": "2"
+    },
+    {
+      "commentby": "user111111",
+      "commentcontent": "gggggggggggggggggggggggggg",
+      "id": "2"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+  }
+  
+  .blogarea {
+    width: 60%;
+    margin: auto;
+  
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    padding: 2rem;
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+  }
+  
+  /* .likearea{
+      
+  } */
+  
+  .commentarea {
+     
+    width: 60%;
+    margin: auto;
+ 
+  
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    padding: 1.5rem;
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+  }
+  .commentarea button {
+      font-size: 1rem;
+      padding: 1rem;
+  }
+
+
+    
+  .likearea {
+     
+    width: 60%;
+    margin: auto;
+ 
+  
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    padding: 1.5rem;
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+  }
+  
+  .d_comment {
+    width: 98%;
+    margin: auto;
+  
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    padding: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .addcomment{
+    display: flex;
+    flex-direction: column;
+  }
+  
